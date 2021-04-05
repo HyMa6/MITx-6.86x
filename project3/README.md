@@ -18,3 +18,7 @@ part2-twodigit/mlp.py and part2-twodigit/conv.py which are for a new, more diffi
 Tip: Throughout the whole online grading system, you can assume the NumPy python library is already imported as np. In some problems you will also have access to python's random library, and other functions you've already implemented. Look out for the "Available Functions" Tip before the codebox, as you did in the last project.<br /> 
 
 This project will unfold both on MITx and on your local machine. However, we encourage you to first implement the functions locally. For this project, there will not be a test.py script. You are encouraged to think of your own test cases to make sure your code works as you expected before submitting it to the online grader.<br /> 
+
+
+2. Neural Network Basics<br /> 
+Good programmers can use neural nets. Great programmers can make them. This section will guide you through the implementation of a simple neural net with an architecture as shown in the figure below. You will implement the net from scratch (you will probably never do this again, don't worry) so that you later feel confident about using libraries. We provide some skeleton code in neural_nets.py for you to fill in.<br /> 
